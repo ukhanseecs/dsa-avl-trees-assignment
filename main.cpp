@@ -2,10 +2,6 @@
 #include <iostream>
 using namespace std;
 
-AVLtree::AVLtree(){
-
-}
-
-void AVLtree::insert(int data){
+int main(){
     
 }

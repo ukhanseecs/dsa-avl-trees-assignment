@@ -8,13 +8,16 @@ class AVLnode{
         AVLnode* right;
 };
 
-class AVLtree{
-    public:
-        AVLnode *root;
+AVLnode* root = nullptr; 
 
-        AVLtree();
 
-        void insert(int data);
-};
+void insert(int data){
+
+}
+
+void print(){
+    
+}
+
 
 #endif 
